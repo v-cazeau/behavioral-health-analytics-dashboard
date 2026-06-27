@@ -4,6 +4,19 @@
 
 ---
 
+## Table of Contents
+
+- [Overview](#overview)
+- [Potential Care Recommendations (Exploratory)](#potential-care-recommendations-exploratory)
+- [Business & Healthcare System Insights](#business--healthcare-system-insights)
+- [Tools Used](#tools-used)
+- [Dashboard Structure](#dashboard-structure)
+- [Page 1: Patient Overview](#page-1-patient-overview)
+- [Page 2: Clinical & Intervention Insights](#page-2-clinical--intervention-insights)
+- [Page 3: Diagnosis & Symptom Patterns](#page-3-diagnosis--symptom-patterns)
+- [Skills Demonstrated](#skills-demonstrated)
+- [Key Takeaways](#key-takeaways)
+
 # Overview
 
 ## What Did I Build?

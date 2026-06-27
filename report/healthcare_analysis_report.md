@@ -99,6 +99,8 @@ The final dashboard was organized into three pages designed to move from a high-
 
 ## Page 1: Patient Overview
 
+![Patient Overview Dashboard](../images/final_power_bi_dashboard_page_1_patient_overview.png)
+
 The first page provides a high-level overview of the patient population and key OCD-related characteristics.
 
 ### Visuals Included
@@ -117,6 +119,8 @@ Provide stakeholders with a quick understanding of the patient population and id
 ---
 
 ## Page 2: Clinical & Intervention Insights
+
+![Clinical & Intervention Insights](../images/final_power_bi_dashboard_page_2_clinical_and_intervention_insights.png)
 
 The second page expands the patient profile by examining additional clinical and demographic characteristics.
 
@@ -146,6 +150,8 @@ These observations are exploratory in nature and intended to demonstrate how hea
 ---
 
 ## Page 3: Diagnosis & Symptom Patterns
+
+![Diagnosis & Symptom Patterns](../images/final_power_bi_dashboard_page_3_diagnosis_and_symptom_patterns.png)
 
 The third page focuses on diagnosis-related and symptom-related patterns within the dataset.
 
